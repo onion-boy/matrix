@@ -1,2 +1,6 @@
 .stack-work/
 *~
+
+# stack doesnt work \._./
+# gotta use cabal
+dist-newstyle/
